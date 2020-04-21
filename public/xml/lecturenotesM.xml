@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lecturenotesM.xsl"?>
+<notes>
+    <note>
+        <subject>Databases and XML</subject>
+        <header>XML First</header>
+        <date>2012-04-01</date>
+        <tags>
+            <tag>xml</tag>
+            <tag>css</tag>
+        </tags>
+        <presenter>Niels</presenter>
+        <item>
+            <content>test first item content area</content>
+            <tags>
+                <tag>xml</tag>
+                <tag>hallo</tag>
+            </tags>
+        </item>
+        <item>
+            <content>
+                Model solutions to last weeks assignments.
+                The easy way to display xml is by adding a
+                stylesheet and making the xml files aware of that.
+            </content>
+            <tags>
+                <tag>xml</tag>
+                <tag>css</tag>
+                <tag>browser</tag>
+                <tag>solutions</tag>
+            </tags>
+        </item>
+    </note>
+    <note>
+        <subject>Android and XML</subject>
+        <header>XSLT</header>
+        <date>2012-11-01</date>
+        <tags>
+            <tag>xml</tag>
+            <tag>xsl</tag>
+        </tags>
+        <presenter>Niels</presenter>
+        <item>
+            <content>test first item content area</content>
+            <tags>
+                <tag>xml</tag>
+                <tag>hallo</tag>
+            </tags>
+        </item>
+        <item>
+            <content>
+                XSL as programmatically managed by JS.
+            </content>
+            <tags>
+                <tag>xml</tag>
+                <tag>xsl</tag>
+                <tag>browser</tag>
+                <tag>solutions</tag>
+            </tags>
+        </item>
+    </note>
+    <note>
+        <subject>Databases and XML</subject>
+        <header>XML From February</header>
+        <date>2012-02-01</date>
+        <tags>
+            <tag>xml</tag>
+            <tag>css</tag>
+        </tags>
+        <presenter>Niels</presenter>
+        <item>
+            <content>test first item content area</content>
+            <tags>
+                <tag>xml</tag>
+                <tag>hallo</tag>
+            </tags>
+        </item>
+        <item>
+            <content>
+                Model solutions to last weeks assignments.
+                The easy way to display xml is by adding a
+                stylesheet and making the xml files aware of that.
+            </content>
+            <tags>
+                <tag>xml</tag>
+                <tag>css</tag>
+                <tag>browser</tag>
+                <tag>solutions</tag>
+            </tags>
+        </item>
+    </note>
+    <note>
+        <subject>Android and XML</subject>
+        <header>Java</header>
+        <date>2012-01-21</date>
+        <tags>
+            <tag>xml</tag>
+            <tag>xsl</tag>
+        </tags>
+        <presenter>Niels</presenter>
+        <item>
+            <content>test first item content area</content>
+            <tags>
+                <tag>xml</tag>
+                <tag>hallo</tag>
+            </tags>
+        </item>
+        <item>
+            <content>
+                XSL as programmatically managed by JS.
+            </content>
+            <tags>
+                <tag>xml</tag>
+                <tag>xsl</tag>
+                <tag>browser</tag>
+                <tag>solutions</tag>
+            </tags>
+        </item>
+    </note>
+</notes>
